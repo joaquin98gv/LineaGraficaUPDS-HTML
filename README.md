@@ -9,4 +9,4 @@ Linea grafica web administrativa UPDS como plantilla HTML y CSS
 
 
 ### Captura
-![Esta es una imagen](/images/captura.png)
+![Esta es una imagen](/../main/images/captura.png)
